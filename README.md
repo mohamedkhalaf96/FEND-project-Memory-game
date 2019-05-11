@@ -1,6 +1,5 @@
 # Memory Game Project
 
-<<<<<<< HEAD
 ## What is the Memory Game
 This is a simple game built to test a users memory. There's a deck of cards with different icons. 
 ![snippet](img/snippet.png)
@@ -23,7 +22,7 @@ I manipulated the DOM with Vanilla JS, altered part of the HTML and also styled 
 * created a counter to count the number of moves made by player and timer to know the duration of a play
 * added effects to cards when they match and are unmatched
 * create a pop-up modal when player wins game
-||||||| merged common ancestors
+
 ## Table of Contents
 
 * [Instructions](#instructions)
@@ -43,5 +42,3 @@ This repository is the starter code for _all_ Udacity students. Therefore, we mo
 
 For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
 
-=======
->>>>>>> b59ce8a29374d731a4a2b84e93c3c2ad6673de39
